@@ -1,0 +1,73 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.whole{
+    height: 450px;
+    width: 280px;
+    margin: 80px auto 50px;
+    border-radius: 5%;
+    background-color: hsl(0, 0%, 100%);
+}
+.qr{
+    height: 100px;
+    width: 75%;
+    padding-top: 13px;
+    margin-left: 15px;
+}
+img{
+    border-radius: 5%;
+    height: 250px;
+    width: 250px;
+}
+.tpst{
+    width: 90%;
+    height: 100px;
+    padding-top: 160px;
+    padding-left: 25px;
+}
+.lwst{
+    height: 80px;
+    width: 75%;
+    position: relative;
+    bottom: 40px;
+    margin: 0 auto 20px auto;
+}
+.aau {
+    width: 100%;
+    font-family: 'Outfit', sans-serif;
+    font-size: 20px;
+    font-weight: bolder;
+    color: hsl(218, 44%, 22%);
+    margin: auto;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+
+.a{
+    width: 240px;
+    margin: 0 0 0 0;
+    color: hsl(220, 15%, 55%);
+    position: relative;
+    right: 1px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+}
+.b{
+    width: 240px;
+    margin-top: 3px;
+    margin-bottom: 0px;
+    color: hsl(220, 15%, 55%);
+    position: relative;
+    right: 7px;
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+}
+.c{
+    margin-left: 50px;
+    margin-top: 3px;
+    padding-bottom: 10px;
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 14px;
+}
